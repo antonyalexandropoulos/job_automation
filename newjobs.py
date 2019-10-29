@@ -7,7 +7,7 @@ import requests
 from lxml import html
 import json
 import urllib.parse
-
+import time
 
 queries = ["java","python","C#","software"]
 with open('applied.txt','r')as f:
@@ -25,10 +25,18 @@ def apply(links):
 
 	driver = webdriver.Firefox(executable_path = DRIVER_BIN)
 	first = True
+
 	for link in links:
 		if link+'\n' in applied:continue
 		driver.get(makelink(link))
-
+		if first:
+			time.sleep(3)
+			cookiess = driver.find_element_by_id("onetrust-accept-btn-handler")
+			cookiess.click()
+			time.sleep(2)
+			cookies = driver.find_element_by_id("btn-cookie")
+			cookies.click()
+			first= False
 		name = driver.find_element_by_id("firstname");
 		name.click()
 		name.send_keys("Antonios")
@@ -42,12 +50,9 @@ def apply(links):
 		email.send_keys("antonyalexandropoulos@gmail.com")
 
 		cv = driver.find_element_by_id("upload_file");
-		cv.send_keys("/Users/antonyalexandropoulos/jobsearch2019/curriculum-vitae (9).pdf")
+		cv.send_keys("/Users/antonyalexandropoulos/jobsearch2019/curriculum-vitae (10).pdf")
 		
-		if first:
-			cookies = driver.find_element_by_id("btn-cookie")
-			cookies.click()
-			first= False
+		
 
 		terms = driver.find_element_by_id("tac")
 		terms.click()

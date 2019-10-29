@@ -440,3 +440,508 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
 
+1564655272972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.zDfjzFLZAReK"
+1564655273765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564655273766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564655273766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564655275680	Marionette	INFO	Listening on port 49801
+1564655275747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564655293426	Marionette	INFO	Stopped listening on port 49801
+JavaScript error: https://www.kariera.gr/recommended/j2z2fv75qbxh70ztfbg line 3865 > scriptElement, line 1: ReferenceError: fbq is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1564655378365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.4g74I8kHq79K"
+1564655378990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564655378991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564655378991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564655380678	Marionette	INFO	Listening on port 49977
+1564655380716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564655380760	Marionette	INFO	Stopped listening on port 49977
+1564993777803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.kpGh9zNUd70q"
+1564993778580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564993778581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564993778581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1564993780464	Marionette	INFO	Listening on port 65066
+1564993780562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdf3z378nbsk203t5jd line 3865 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j316td622m77tjm7k3n line 3865 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564993145778%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j2w87d700gqm2wfn2l1 line 3865 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2v7dq6gmythnr7nl5v line 3865 > scriptElement, line 1: ReferenceError: fbq is not defined
+1564993812165	Marionette	INFO	Stopped listening on port 65066
+[Parent 44441, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565180198557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.08vZIQ7NwMp4"
+1565180199323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565180199323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565180199323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565180201224	Marionette	INFO	Listening on port 60296
+1565180201310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr//apply/jd680g6vrm3wj8b85yw/unregistered line 3863 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/jd680g6vrm3wj8b85yw line 3863 > scriptElement, line 1: ReferenceError: fbq is not defined
+1565180218095	Marionette	INFO	Stopped listening on port 60296
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1565255206424	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.2NfUnFWBlQOh"
+1565255207184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565255207185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565255207185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565255209072	Marionette	INFO	Listening on port 63296
+1565255209173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jd84nq6gdwqhmp22sfl line 3863 > scriptElement, line 1: ReferenceError: fbq is not defined
+1565255218664	Marionette	INFO	Stopped listening on port 63296
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1565806013159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.UDdNt7agSqtf"
+1565806014027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565806014027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565806014027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565806015981	Marionette	INFO	Listening on port 52842
+1565806016039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr//apply/j2n5zf73b4tsvjvtlvm/unregistered line 3863 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/j2n5zf73b4tsvjvtlvm line 3863 > scriptElement, line 1: ReferenceError: fbq is not defined
+1565806042959	Marionette	INFO	Stopped listening on port 52842
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1566475068496	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.8Z1bBDcYfcG6"
+1566475069307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566475069307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566475069308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566475071262	Marionette	INFO	Listening on port 65384
+1566475071356	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1566542155358	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.ukTPsjHycTfN"
+1566542156143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566542156144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566542156144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566542158031	Marionette	INFO	Listening on port 51457
+1566542158119	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 48486, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+1566547720804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.e55DJH0jdrkS"
+1566547721416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566547721416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566547721416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566547723131	Marionette	INFO	Listening on port 51895
+1566547723172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/j314ky780c7gj4hbhxv line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/j2w2625zhnhn54v8rlj line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566522339063%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j313f378tf4pzm8cvfp line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+1566547748090	Marionette	INFO	Stopped listening on port 51895
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1566653702681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.g0Gk4fRNVBKx"
+1566653703466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566653703466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566653703466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566653705443	Marionette	INFO	Listening on port 55487
+1566653705462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566653716568	Marionette	INFO	Stopped listening on port 55487
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1567678536093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.RcVvk503izmq"
+1567678536920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567678536920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567678536920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567678538823	Marionette	INFO	Listening on port 54275
+1567678538893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jd94xg6b85lcwjb6r00 line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567621920756%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j2p5kh6w3yq0w095g4x line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j311lm68b5q51x2yjqj line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j304js68yp40wrpvd5s line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/jdd26v78td26rp4qj5m line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/jd834f6wqcqww20dxhl line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+1567678597589	Marionette	INFO	Stopped listening on port 54275
+JavaScript error: https://www.kariera.gr/recommended/j2v6mb6slmrwz416w0q line 3864 > scriptElement, line 1: ReferenceError: fbq is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1568110743036	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.YOMfo5UH9t4S"
+1568110743926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568110743926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568110743926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568110745974	Marionette	INFO	Listening on port 54369
+1568110746020	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568110746091	Marionette	INFO	Stopped listening on port 54369
+1568110797263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.9oEfQYwZVkYF"
+1568110797952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568110797952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568110797952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568110799767	Marionette	INFO	Listening on port 54511
+1568110799836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568110799891	Marionette	INFO	Stopped listening on port 54511
+1568291953599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.sYmumIFIOThh"
+1568291954337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568291954338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568291954338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568291956199	Marionette	INFO	Listening on port 61076
+1568291956240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdd2v66bzp8cy5n45d5 line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568285711403%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j2s0zl77nm0nfwpqfjl line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2w1x374bztv2207d0x line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2r08d6k4vm1gl6fqws line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+1568291992521	Marionette	INFO	Stopped listening on port 61076
+1568563822601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.bw1NWkpPFtk9"
+1568563823376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568563823377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568563823377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568563825317	Marionette	INFO	Listening on port 53870
+1568563825384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568563845126	Marionette	INFO	Stopped listening on port 53870
+1568716370550	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.HyU2smwPBKFg"
+1568716371288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568716371288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568716371288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568716373132	Marionette	INFO	Listening on port 63392
+1568716373205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568716373246	Marionette	INFO	Stopped listening on port 63392
+1569161014740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.jIA4LYcBTVBJ"
+1569161015542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569161015542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569161015542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569161017535	Marionette	INFO	Listening on port 58217
+1569161017598	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568932441627%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr//apply/j2v81c6h5tnnmh2k1ts/unregistered line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+1569161041049	Marionette	INFO	Stopped listening on port 58217
+1569244199077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.23qe1TiaNjfq"
+1569244199844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569244199844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569244199844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569244201663	Marionette	INFO	Listening on port 60843
+1569244201731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdd4pv781pwxfnrc4hd line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/jdd25z74s47rmx3c4zz line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+1569244219773	Marionette	INFO	Stopped listening on port 60843
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1569411447813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.sfQTXL0vPYVw"
+1569411448544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569411448545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569411448545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569411450383	Marionette	INFO	Listening on port 49822
+1569411450476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/j2z0qd6gqk7kq77nkhv line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j308bn6gy88cvhkbdc5 line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221569369610502%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j2n3h074ywxmn6vn52s line 3867 > scriptElement, line 1: ReferenceError: fbq is not defined
+1569411473380	Marionette	INFO	Stopped listening on port 49822
+1569922668363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.Xo9EyEruJWeg"
+1569922669098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569922669099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569922669099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569922670957	Marionette	INFO	Listening on port 61618
+1569922671011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jd67g972bt9b582bpjz line 3869 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221569865071841%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr//apply/j2n1s46j8zhy0mp2m7v/unregistered line 3869 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/j2n1s46j8zhy0mp2m7v line 3869 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/jd64ct6701gs8xt798x line 3869 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/jcl0my6czdpn6dv4dmm line 3869 > scriptElement, line 1: ReferenceError: fbq is not defined
+1569922711142	Marionette	INFO	Stopped listening on port 61618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1570438342014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.nKTKg1sHfCdW"
+1570438342786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570438342786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570438342787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570438344738	Marionette	INFO	Listening on port 55955
+1570438344772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr//apply/jdd7w56fwg31mv5hfdk/unregistered line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221569888076191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/j2n5396lx17hjgs5gmv line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2w82f6j8bx9f7whbl1 line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr//apply/j2n26c61fnb1ct7wzky/unregistered line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/j2n26c61fnb1ct7wzky line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2y09w6z591nh5lr3tw line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2n1tg5z4cwtnlvtr1r line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+1570438422116	Marionette	INFO	Stopped listening on port 55955
+1570710227039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.xe36WlFFcKBY"
+1570710227867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570710227867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570710227868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570710229815	Marionette	INFO	Listening on port 63022
+1570710229834	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221570701652245%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.kariera.gr/recommended/jcm53g5zf6l5hght89p line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2r08x6hwsk22bmk3ty line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j3054s5xhsk0tzk1j5b line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.kariera.gr/recommended/j2r5t660ntrr5bybwhp line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+1570710304128	Marionette	INFO	Stopped listening on port 63022
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1571044716921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.H0xGMQLSvsUT"
+1571044717767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571044717768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571044717768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571044719804	Marionette	INFO	Listening on port 54369
+1571044719908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/j2s3r462h1mrfs512mz line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/jdd64y686k178ml6vxp line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+JavaScript error: https://www.kariera.gr/recommended/jdd61l78v0r7mph7qz4 line 3868 > scriptElement, line 1: ReferenceError: fbq is not defined
+1571044742345	Marionette	INFO	Stopped listening on port 54369
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1571296901440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.ZEKLs5kZ0Git"
+1571296902243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571296902244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571296902244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571296904084	Marionette	INFO	Listening on port 60625
+1571296904111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jd93z164bj3kmcylj7p line 3874 > scriptElement, line 1: ReferenceError: fbq is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221571270412113%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1571296931221	Marionette	INFO	Stopped listening on port 60625
+1571404860033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.SpmhLzW4K5Nd"
+1571404860828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571404860829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571404860829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571404862768	Marionette	INFO	Listening on port 64905
+1571404862786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1571404895889	Marionette	INFO	Stopped listening on port 64905
+1571654178703	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.9UKInlwgxVKQ"
+1571654179508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571654179508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571654179508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571654181841	Marionette	INFO	Listening on port 57526
+1571654181885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdh1j462d4th48y766q line 3874 > scriptElement, line 1: ReferenceError: fbq is not defined
+1571654192978	Marionette	INFO	Stopped listening on port 57526
+1571740483563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.j0a5ETx53Otx"
+1571740484375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571740484375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571740484375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571740486306	Marionette	INFO	Listening on port 62051
+1571740486331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571740486390	Marionette	INFO	Stopped listening on port 62051
+1572341288498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.ZBfjethmAa5L"
+1572341289300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572341289300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572341289300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572341291198	Marionette	INFO	Listening on port 63188
+1572341291248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572341427429	Marionette	INFO	Stopped listening on port 63188
+1572341454449	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.mTEw6vTFxGkv"
+1572341455018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572341455019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572341455019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572341456716	Marionette	INFO	Listening on port 63394
+1572341456807	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1572341614591	Marionette	INFO	Stopped listening on port 63394
+1572341774201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.HTlUKPBrFePG"
+1572341775266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572341775267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572341775267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572341775267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572341777157	Marionette	INFO	Listening on port 63661
+1572341797679	Marionette	INFO	Stopped listening on port 63661
+1572341832301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.7Eo4wnM5Ayyf"
+1572341832927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572341832927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572341832927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572341832927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572341834700	Marionette	INFO	Listening on port 63772
+1572341834744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdf3ps5y9k26qcm8cwp line 3886 > scriptElement, line 1: ReferenceError: fbq is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1572341948626	Marionette	INFO	Stopped listening on port 63772
+1572341977618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.PEGgTdDB5dJI"
+1572341978213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572341978213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572341978213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572341978213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572341980040	Marionette	INFO	Listening on port 63963
+1572341980076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572342039583	Marionette	INFO	Stopped listening on port 63963
+1572342062043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.sDrq8WIw04wW"
+1572342062621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572342062621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572342062621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572342062621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572342064445	Marionette	INFO	Listening on port 64118
+1572342064501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572342127730	Marionette	INFO	Stopped listening on port 64118
+1572342157680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.5w1u6RVyXTuf"
+1572342158279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572342158279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572342158279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572342158279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572342160087	Marionette	INFO	Listening on port 64299
+1572342160131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572342186715	Marionette	INFO	Stopped listening on port 64299
+1572342217322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/h3/40558gqn6374j5z22hx0xpyr0000gn/T/rust_mozprofile.glA6ehqUC9OW"
+1572342217916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572342217916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572342217916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572342217916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1572342219687	Marionette	INFO	Listening on port 64456
+1572342219779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kariera.gr/recommended/jdf3ps5y9k26qcm8cwp line 3886 > scriptElement, line 1: ReferenceError: fbq is not defined
+1572342249412	Marionette	INFO	Stopped listening on port 64456
+JavaScript error: https://www.kariera.gr/recommended/jd97fv6sd4qymcqd94d line 3886 > scriptElement, line 1: ReferenceError: fbq is not defined
+[Parent 95058, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
